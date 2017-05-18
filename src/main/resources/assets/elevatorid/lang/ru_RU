@@ -1,0 +1,20 @@
+tile.elevator_white.name=Белый подъёмник
+tile.elevator_black.name=Чёрный подъёмник
+tile.elevator_blue.name=Синий подъёмник
+tile.elevator_brown.name=Коричневый подъёмник
+tile.elevator_cyan.name=Голубой подъёмник
+tile.elevator_gray.name=Серый подъёмник
+tile.elevator_green.name=Зелёный подъёмник
+tile.elevator_light_blue.name=Светло-синий подъёмник
+tile.elevator_lime.name=Лаймовый подъёмник
+tile.elevator_magenta.name=Пурпурный подъёмник
+tile.elevator_orange.name=Оранжевый подъёмник
+tile.elevator_pink.name=Розовый подъёмник
+tile.elevator_purple.name=Фиолетовый подъёмник
+tile.elevator_red.name=Красный подъёмник
+tile.elevator_silver.name=Светло-серый подъёмник
+tile.elevator_yellow.name=Жёлтый подъёмник
+
+elevatorid.subtitle.teleport=Использовать подъёмник
+
+itemGroup.tabElevators=Elevator Mod
